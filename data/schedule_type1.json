@@ -1,0 +1,56 @@
+{
+    "work_time": [
+        {
+            "day": 0,
+            "start_time": "06:00",
+            "end_time": "15:00"
+        },
+        {
+            "day": 1,
+            "start_time": "06:00",
+            "end_time": "15:00"
+        },
+        {
+            "day": 2,
+            "start_time": "06:00",
+            "end_time": "15:00"
+        },
+        {
+            "day": 3,
+            "start_time": "06:00",
+            "end_time": "15:00"
+        },
+        {
+            "day": 4,
+            "start_time": "06:00",
+            "end_time": "15:00"
+        }
+    ],
+    "break_time": [
+        {
+            "day": 0,
+            "start_time": "10:00",
+            "end_time": "11:00"
+        },
+        {
+            "day": 1,
+            "start_time": "10:00",
+            "end_time": "11:00"
+        },
+        {
+            "day": 2,
+            "start_time": "10:00",
+            "end_time": "11:00"
+        },
+        {
+            "day": 3,
+            "start_time": "10:00",
+            "end_time": "11:00"
+        },
+        {
+            "day": 4,
+            "start_time": "10:00",
+            "end_time": "11:00"
+        }
+    ]
+}

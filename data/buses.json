@@ -1,0 +1,34 @@
+[
+    {
+        "bus_id": 1,
+        "capacity": 100
+    },
+    {
+        "bus_id": 2,
+        "capacity": 150
+    },
+    {
+        "bus_id": 3,
+        "capacity": 150
+    },
+    {
+        "bus_id": 4,
+        "capacity": 80
+    },
+    {
+        "bus_id": 5,
+        "capacity": 110
+    },
+    {
+        "bus_id": 6,
+        "capacity": 90
+    },
+    {
+        "bus_id": 7,
+        "capacity": 85
+    },
+    {
+        "bus_id": 8,
+        "capacity": 120
+    }
+]

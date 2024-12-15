@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Stop A",
+        "duration": 1,
+        "time_to_next": 5
+    },
+    {
+        "name": "Stop B",
+        "duration": 1,
+        "time_to_next": 7
+    },
+    {
+        "name": "Stop C",
+        "duration": 1,
+        "time_to_next": 6
+    },
+    {
+        "name": "Stop D",
+        "duration": 1,
+        "time_to_next": 10
+    },
+    {
+        "name": "Stop E",
+        "duration": 1,
+        "time_to_next": 8
+    },
+    {
+        "name": "Stop F",
+        "duration": 1,
+        "time_to_next": 6
+    },
+    {
+        "name": "Stop G",
+        "duration": 1,
+        "time_to_next": 4
+    },
+    {
+        "name": "Stop H",
+        "duration": 1,
+        "time_to_next": 5
+    },
+    {
+        "name": "Stop I",
+        "duration": 1,
+        "time_to_next": 9
+    },
+    {
+        "name": "Stop J",
+        "duration": 1,
+        "time_to_next": 7
+    }
+]
